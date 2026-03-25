@@ -1,2 +1,7 @@
-# ICT-Portfolio
-This repository contains my ICT (Application, Information, and Communication Technology) portfolio, including assignments, projects, and practical exercises completed as part of my Bachelor’s in Software Engineering.
+# My ICT Portfolio
+
+Name: Malik Waleed 
+Program: BS (Software Engineering)
+Semester: 1 
+
+This repository is created for my ICT assignment.
